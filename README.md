@@ -13,6 +13,6 @@ The **CantSee** script calculates the best path for the AI to take to the player
 The **Main** script adds boolean and string values to the player's profile for the rest of the scripts to work. It also unbinds the AI from the person if the player dies, leaves the experience, or resets their character.
 
 The **Jumpscare** script runs on the client and makes the AI's head shake, uses a 3rd party module to shake the person's camera, and plays sound effects.
-Here is the experience link: 
 
+Here is the experience link: 
 https://www.roblox.com/games/8378991491
